@@ -323,7 +323,7 @@
 - [Front-end Interview (영어)](http://thatjsdude.com/interview/index.html)
 - [Front-end Checklist](https://github.com/kesuskim/Front-End-Checklist)
   - 면접 시 물어보기 가장 좋은 것들이 '기본'에 대한 내용이라고 생각되는데요, 그 '기본'에 대해 체크리스트 형식으로 잘 정리되어 있는 문서를 공유합니다.
-- [Front End Interview Handbook (한국어)](https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/kr/README.md)
+- [Front End Interview Handbook (한국어)](https://www.frontendinterviewhandbook.com/)
 - [React 구조에 대한 고민 시리즈](https://jbee.io/react/react-0-intro/)
 
 </br>
@@ -366,6 +366,7 @@
 
 ## 그 외 좋은 자료
 
+- [소프트웨어 엔지니어의 이력서](https://jbee.io/essay/swe-resume/)
 - [미세먼지 같은 면접 팁](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Tip)
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [mission-peace/interview](https://github.com/mission-peace/interview)
